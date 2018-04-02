@@ -1,2 +1,2 @@
-# forked-repo
-a forked test repo
+# design-repo
+a design test repo
